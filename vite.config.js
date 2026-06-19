@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/https://github.com/sharmanarendar598-star/Narendramall.git/', 
-  base:'/jghjvhdf/',
+  base: '/Narendra-mall/', 
   plugins: [react()],
 })
