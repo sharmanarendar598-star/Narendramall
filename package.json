@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/sharmanarendar598-star/Narendra-mall.git",
+  "homepage": "https://github.com/sharmanarendar598-star/fast_mall.git",
   "name": "first-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-   "predeploy": "npm run build", 
-"deploy": "gh-pages -d dist", 
+    "predeploy": "npm run build", 
+"deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
